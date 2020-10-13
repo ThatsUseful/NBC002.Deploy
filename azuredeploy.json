@@ -111,7 +111,7 @@
       "metadata": {
         "description": "The URL to the GitHub repository to deploy."
       },
-      "defaultValue": "https://ae3ab6550df68b43eecdf18f992eee5f45b06670@github.com/ThatsUseful/NBC002.MSTeamsCommunicator.git"
+      "defaultValue": "https://github.com/ThatsUseful/NBC002.MSTeamsCommunicator.git"
     },
     "gitBranch": {
       "type": "string",
